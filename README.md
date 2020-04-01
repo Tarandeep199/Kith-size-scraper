@@ -3,6 +3,5 @@ This allows you to monitor sizes in stock for specific products available on Kit
 Currently is initialized to find sizes for one specific item as indicated in the html text. 
 Similar standard may be applied to any other Shopify built site.
 
-IMPROVEMENTS TO BE MADE:
-  Monitor whole site and relay back specific changes via product title.
+
   
